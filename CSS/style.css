@@ -1,0 +1,177 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(151, 147, 147);
+    height: 1000px;
+}
+
+.main-box {
+    padding: 30px;
+}
+
+.cv-box {
+    width: 800px;
+    height: 1000px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.left-box {
+    width: 32%;
+    float: left;
+    background-color: #26262D;
+    height: 1000px;
+}
+
+.right-box {
+    width: 63%;
+    float: left;
+    padding: 20px;
+    background-color: white;
+}
+
+.profile-picture {
+    width: 100%;
+    height: 33%;
+}
+
+.profile-picture:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.left-content {
+    padding: 6%;
+}
+
+h1 {
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: whitesmoke;
+}
+
+p {
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    color: whitesmoke;
+    text-align: justify;
+}
+li {
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    color: whitesmoke;
+    text-align: justify;
+}
+
+.right-content {
+    padding: 6%;
+}
+
+h2 {
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 450;
+    font-size: 45px;
+    text-transform: uppercase;
+    color: black;
+}
+
+.right-box-h1 {
+    font-size: 16pt;
+    font-family: system-ui;
+    font-style: normal;
+    font-weight: 450;
+    text-transform: uppercase;
+    color: black;
+}
+
+.right-box-p {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    color: black;
+    text-align: justify;
+}
+
+.rbp {
+    float: none;
+}
+
+.skill-bar {
+    width: 70%;
+    float: none;
+    background-color: rgb(151, 147, 147);
+}
+
+#bar1 {
+    width: 80%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(151, 147, 147);
+    background-color: #26262D;
+}
+
+
+#bar2 {
+    width: 90%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(151, 147, 147);
+    background-color: #26262D;
+}
+
+
+#bar3 {
+    width: 70%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(151, 147, 147);
+    background-color: #26262D;
+}
+
+
+.fonts-items {
+    padding-left: 8px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 15px;
+    width: 10px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+.fa:hover {
+    opacity: 0.4;
+}
+
+.fa-facebook {
+    background: rgb(151, 147, 147);
+    color: white;
+}
+
+.fa-twitter {
+    background: rgb(151, 147, 147);
+    color: white;
+}
+
+.fa-linkedin {
+    background: rgb(151, 147, 147);
+    color: white;
+}
+
+.fa-skype {
+    background: rgb(151, 147, 147);
+    color: white;
+}
+
